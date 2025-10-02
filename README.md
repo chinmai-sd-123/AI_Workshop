@@ -12,17 +12,13 @@ Encourage collaborative and independent problem-solving.
 
 Projects Developed
 
-Group Projects (3):
+Group Projects :
 
-Project 1 – Demonstrated application of Generative AI for content creation.
-
-Project 2 – Implemented agentic decision-making for task automation.
-
-Project 3 – Combined generative models with autonomous agents to solve a real-world use case.
+Project 1 – Demonstrated application of idea generation
 
 Individual Project (1):
 
-Each participant was assigned a project to independently apply workshop learnings, promoting innovation and deeper technical exploration.
+stock-price-prediction
 
 Outcomes
 
@@ -36,8 +32,6 @@ Repository of project implementations and resources for further learning.
 
 Repository Contents
 
-/group-projects – Source code and documentation for the three collaborative projects.
+idea_generator project
 
-/individual-projects – Selected individual assignments.
 
-/docs – Workshop notes, references, and supplementary materials.
